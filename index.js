@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing with your mom","Listening to your mom","Your mom begging for more"];
+const statusMessages = ["Wurb is the BEST","I'm just a BOT","I love your MOM"];
 
 
 let currentIndex = 0;
